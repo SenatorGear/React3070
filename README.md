@@ -19,13 +19,13 @@
 1. Клонируйте репозиторий с проектом:
 
 ```
-git clone https://github.com/DxrkFuture/React3023.git
+git clone https://github.com/DxrkFuture/React3070.git
 ```
 
 2. Перейдите в директорию проекта:
 
 ```
-cd React3023
+cd React3070
 ```
 
 4. Запустите приложение:
