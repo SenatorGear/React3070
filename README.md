@@ -19,7 +19,7 @@
 1. Клонируйте репозиторий с проектом:
 
 ```
-git clone https://github.com/DxrkFuture/React3070.git
+git clone https://github.com/SenatorGear/React3070.git
 ```
 
 2. Перейдите в директорию проекта:
