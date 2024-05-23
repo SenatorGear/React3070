@@ -5,21 +5,21 @@ const Item = () => {
   const riddles = [
     {
       id: 1,
-      description: 'Зимой — звезда, весной — вода.',
-      option1: 'Снежинка',
-      option2: 'Камета',
-      option3: 'Солнце',
+      description: 'Без рук, без ног, а поет',
+      option1: 'Магнитофон',
+      option2: 'Рация',
+      option3: 'Океан',
       option4: 'Светлячёк',
       correct: 1
     },
     {
       id: 2,
-      description: 'Не лает, не кусает, а в дом не пускает.',
+      description: 'Не ветер, а летит.',
       option1: 'Сторож',
-      option2: 'Безопасник',
+      option2: 'Самолет',
       option3: 'Волк',
-      option4: 'Замок',
-      correct: 4
+      option4: 'Птица',
+      correct: 2
     },
     {
       id: 3,
@@ -32,19 +32,19 @@ const Item = () => {
     },
     {
       id: 4,
-      description: 'На какой вопрос вы никогда не сможете ответить «да»?',
-      option1: 'Ты существуешь?',
-      option2: 'Ты спишь?',
-      option3: 'Ты человек?',
-      option4: 'Ты сдесь?',
+      description: 'Думает как голова, железный но не нож, электрический, но не чайник.',
+      option1: 'Телевизор',
+      option2: 'Компьютер',
+      option3: 'Робот',
+      option4: 'Операционная система',
       correct: 2
     },
     {
       id: 5,
-      description: 'Что растёт вниз, а не вверх?',
+      description: 'На зеленой хрупкой ножке вырос шарик у дорожки',
       option1: 'Дерево',
       option2: 'Трава',
-      option3: 'Корни', 
+      option3: 'Одуванчик', 
       option4: 'Гриб',
       correct: 3
     }
